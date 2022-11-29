@@ -8,7 +8,7 @@ body {
     background-color: #f4f2ee;
     display: flex;
     flex-direction: column;
-    background-image: url("../bg.jpg");
+    background-image: url("bg.jpg");
 }
 
 nav {
